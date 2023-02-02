@@ -1,0 +1,17 @@
+/* Write your CSS code here */
+
+.profile-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-family: 'Roboto';
+}
+
+.profile {
+  width: 150px;
+  height: 150px;
+}
+.name {
+  font-size: 23px;
+}
